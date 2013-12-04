@@ -1,5 +1,4 @@
 'use strict';
-
 var folderMount, lrSnippet, path;
 
 path = require('path');
