@@ -49,5 +49,4 @@ Licence
 ======================
 
 The MIT License (MIT)
-
-Copyright (c) 2013 by Makoto Tanaka
+http://opensource.org/licenses/MIT
