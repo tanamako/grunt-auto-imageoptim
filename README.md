@@ -40,7 +40,7 @@ It performs the task if you will be monitoring the filepath set by the task of i
 ```
 
 Imageoptim App
-----------------------
+----------------------cd 
 Install from here.
 http://imageoptim.com/
 ![Alt text](https://raw.github.com/tanamako/grunt-imageoptim-watch/master/assets/images/imageoptim.png)
@@ -49,4 +49,3 @@ Licence
 ======================
 
 The MIT License (MIT)
-http://opensource.org/licenses/MIT
